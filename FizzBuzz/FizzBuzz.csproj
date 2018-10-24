@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>mvesign</Authors>
+    <PackageProjectUrl>https://github.com/mvesign/fizz-buzz</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mvesign/fizz-buzz</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/mvesign/fizz-buzz</PackageLicenseUrl>
+    <Company>mvesign.com</Company>
+  </PropertyGroup>
+
+</Project>
